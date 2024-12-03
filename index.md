@@ -10,7 +10,7 @@
 ##### This is h5
 ###### This is h6
 
-![image](https://github.com/user-attachments/assets/8e858a34-61dd-45f7-8c60-35e194d26fe8)
+![Welcome image](https://github.com/user-attachments/assets/8e858a34-61dd-45f7-8c60-35e194d26fe8)
 This is a self imported image
 
 These are the only size and ways to do headers for markdown.
