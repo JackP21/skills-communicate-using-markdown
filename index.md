@@ -23,8 +23,6 @@ print s
 
 Finally a task list would look something like this:
 
-1. this is the first task
-2. this would be next
-3. and so on..
-
-
+- [ ] This is the first item
+- [ ] this is the second
+- [ ] and this is the third item 
